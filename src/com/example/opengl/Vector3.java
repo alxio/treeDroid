@@ -3,7 +3,7 @@ package com.example.opengl;
 public class Vector3 {
 	float x;
 	float y;
-	float z;
+	float z; 
 
 	public Vector3(float pX, float pY, float pZ) {
 		x = pX;
